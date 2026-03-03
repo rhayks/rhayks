@@ -5,7 +5,7 @@
 - 🌱 Estudando _Python_, _SQL Lite_ e _Estatística_.
 - 📚 Aprendizado por meio de livros, cursos e documentação técnica.
 - 📊 Desenvolvendo habilidades em _Análise de Dados_ e _Power BI_.
-- 😄 Pronomes: ela/dela.
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
